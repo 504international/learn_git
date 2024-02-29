@@ -1,2 +1,3 @@
 # learn_git
-Git lessions
+This repository has lessons about git and its usage. 
+
